@@ -1,2 +1,2 @@
-# wheres-the-money
-A program that uses functions to create a 'wheres the money' chart based on user input.
+# Wheres The Money?
+A program that uses functions to create a financial breakdown of the users monthly salary based on user input. 
